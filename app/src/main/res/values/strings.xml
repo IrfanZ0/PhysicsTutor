@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Physics Tutor</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_lessons">Lessons</string>
+    <string name="title_purchase">Purchase</string>
+    <string name="first_law_topic">First Law of Motion</string>
+    <string name="second_law_topic">Second Law of Motion</string>
+    <string name="third_law_topic">Third Law of Motion</string>
+    <string name="projectile_topic">Projectiles</string>
+    <string name="forces_2D_topic">2D Forces</string>
+    <string name="work_and_energy_topic">Work and Energy</string>
+    <string name="circular_motion_topic">Circular Motion</string>
+    <string name="addToCartLabel">Add To Cart</string>
+    <string name="purchase_items">Purchase Now</string>
+    <string name="welcome_home_message">Welcome to Physics Tutor.  A place where it\'s fun to learn physics.  Home tab shows you updates to the app or other relevant information.  </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="student_name_text">Name:</string>
+    <string name="lesson_name_text">Lesson Name:</string>
+    <string name="Score_text">Score:</string>
+    <string name="dashboard_message">Hello welcome to the dashboard!  Here you will find information about the last physics lesson learned and your progress.</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_physics_tutor_view_model">PhysicsTutorViewModel</string>
+    <string name="student_names">Names:</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="purchase">Purchase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

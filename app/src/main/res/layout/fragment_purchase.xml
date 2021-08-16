@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PurchaseFragment">
+
+
+    <ImageButton
+        android:id="@+id/imageChargeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/purchase_items"
+        android:paddingLeft="500dp"
+        android:layout_gravity="start"
+        android:paddingTop="500dp"
+        android:paddingRight="0dp"
+        android:paddingEnd="0dp"
+        android:paddingBottom="0dp"
+        android:src="@drawable/ic_shopping_foreground"
+        android:paddingStart="500dp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/purchaseRV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+</FrameLayout>
